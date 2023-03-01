@@ -31,3 +31,6 @@
 .DS_Store
 .Trashes
 slurm*
+
+# custom folders #
+00_samplesheets/
